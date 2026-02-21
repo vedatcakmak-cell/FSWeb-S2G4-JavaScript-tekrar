@@ -1,5 +1,7 @@
 ## JavaScript Tekrar
 
+
+test commit
 ## Amaçlar
 
 - JavasScipt'te öğrendiklerimizi kullanmak
